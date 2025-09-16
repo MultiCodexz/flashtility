@@ -1,7 +1,17 @@
 # app/src/main.py
 import cmd
-from src.utils import colored, config_loader, logger
-from src.modules import oled, flash, uart
+import utils.config_loader as config_loader
+import utils.colored as colored
+import modules.oled as oled_display
+import modules.flash as flash
+import modules.uart as uart
+from utils.colored import *
+from utils.config_loader import *
+from utils.logger import *
+from modules.oled import *
+from modules.flash import * 
+from modules.uart import * 
+
 
 def banner():
     text = "Firmware Flash Utility"
