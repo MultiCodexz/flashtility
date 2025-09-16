@@ -1,0 +1,10 @@
+{
+    "fritz-tools": "https://github.com/freifunk-darmstadt/fritz-tools",
+    "fritz-flash": "wget https://raw.githubusercontent.com/freifunk-darmstadt/fritz-tools/master/fritzflash.py.",
+    "openwrt-scripts": "https://github.com/openwrt/openwrt/tree/master/scripts",
+    "uboot-tools": "",
+    "flash-tools": "",
+    "zjtag": "https://openwrt.org/_media/media/doc/hardware/zjtag-1.8.zip",
+    "debrick": "https://github.com/etmatrix/debrick_buspirate",
+    "tjtag-pi": "https://github.com/asciiverze/tjtag-pi"
+}

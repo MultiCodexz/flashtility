@@ -1,0 +1,22 @@
+{
+    "name": "FRITZBox_W247_7520",
+    "firmware_image_latest": "https://download.avm.de/fritzbox/fritzbox-7520/deutschland/fritz.os/FRITZ.Box_7520-08.02.image",
+    "firmware_source_files": "https://osp.avm.de/fritzbox/fritzbox/fritzbox-source-files.04.67.tar.gz",
+    "source_code": "https://osp.avm.de/fritzbox/fritzbox-7520/",
+    "source_code_b": "https://osp.avm.de/fritzbox/fritzbox-7520-B/",
+    "sourcecode_smartgateway": "https://osp.avm.de/fritzdect/fritzsmart-gateway/source-files-FRITZ.Smart_Gateway-08.01.tar.gz",
+    "version": "8.02",
+    "vendor": "1und1",
+    "url": "",
+    "appversion": "11802",
+    "tftp_ip": "192.168.178.1",
+    "tftp_port": "69",
+    "tftp_protocol": "udp",
+    "dashboard": "http://192.168.178.1",
+    "gpio_pins": {
+        "VCC": "VCC <3.3V NOT -> 5V > n/A",
+        "RX": "GPIO1",
+        "TX": "GPIO2",
+        "GND": "GND"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "openwrt",
+    "version": "",
+    "router": "FRITZBox_W247_7520",
+
+    "factory_image_uboot": "https://downloads.openwrt.org/releases/24.10.2/targets/ipq40xx/generic/u-boot-fritz7520/uboot-fritz7520.bin",
+    "factory_image_initramfs": "https://downloads.openwrt.org/releases/24.10.2/targets/ipq40xx/generic/openwrt-24.10.2-ipq40xx-generic-avm_fritzbox-7530-initramfs-uImage.itb",
+    "sysupgrade_image": "https://downloads.openwrt.org/releases/24.10.2/targets/ipq40xx/generic/openwrt-24.10.2-ipq40xx-generic-avm_fritzbox-7530-squashfs-sysupgrade.bin",
+    "oem_firmware": "https://download.avm.de/fritzbox/fritzbox-7520/",
+    "mirror": "https://mirror-03.infra.openwrt.org/releases/23.05.0-rc2/targets/, https://mirror-03.infra.openwrt.org/releases/24.10.2/targets/ipq40xx/generic/"
+
+}

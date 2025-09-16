@@ -1,0 +1,5 @@
+{
+    "fritzbox_7520_firtzos": "https://download.avm.de/fritzbox/fritzbox-7520/deutschland/fritz.os/FRITZ.Box_7520-08.02.image",
+    "fritzbox_7520_openwrt": "https://osp.avm.de/fritzbox/fritzbox-7520/",
+    "fritzbox_7520_openwrt_uboot":"https://mirror-03.infra.openwrt.org/releases/23.05.0-rc2/targets/ipq40xx/generic/u-boot-fritz7520/"
+}
