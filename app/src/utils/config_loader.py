@@ -1,7 +1,7 @@
 # app/src/utils/config_loader.py
 import json
 from pathlib import Path
-from src.utils import colored
+from app.src.utils import colored
 
 CONFIG_DIR = Path(__file__).parent.parent / "conf"
 
