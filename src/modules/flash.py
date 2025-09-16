@@ -1,5 +1,5 @@
 # app/src/core/flash.py
-from app.src.utils import uart
+from src.utils import uart
 
 def flash_fritzbox(uart_port):
     if uart_port:
